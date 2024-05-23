@@ -101,7 +101,7 @@ body {
 
 @media screen and (min-width: 900px) {
     .header {
-        width: 40%;
+        width: 30%;
         position: fixed;
         top: 0;
         left: 0;
@@ -115,6 +115,7 @@ body {
     }
     .main-container {
         display: flex;
+        background-color: white;
     }
     .container-wrapper {
         width: 50%;
@@ -134,7 +135,7 @@ body {
     }
     .text-wrapper {
         text-align: left;
-        width: 40%;
+        width: 60%;
     }
     .title {
         font-size: 3.2rem;
@@ -143,7 +144,7 @@ body {
         font-size: 1.2rem;
     }
     .form {
-        width: 40%;
+        width: 60%;
     }
     .submit-btn {
         width: 80px;
